@@ -75,7 +75,7 @@ void breakingNews(int number) {
     Display.clear();
     delay(200);
     Display.setCursor(0,0);
-    Display.print("Nachricht");
+    Display.print("Message");
     Display.setCursor(0,1);
     Display.print("1");
     delay(2000);
@@ -96,7 +96,7 @@ void breakingNews(int number) {
     Display.clear();
     delay(200);
         Display.setCursor(0,0);
-    Display.print("Nachricht");
+    Display.print("Message");
     Display.setCursor(0,1);
     Display.print("2");
     delay(2000);
@@ -117,7 +117,7 @@ void breakingNews(int number) {
     Display.clear();
     delay(200);
         Display.setCursor(0,0);
-    Display.print("Nachricht 3");
+    Display.print("Message 3");
     delay(2000);
   }
   else if (number == 4) {
@@ -136,7 +136,7 @@ void breakingNews(int number) {
     Display.clear();
     delay(200);
     Display.setCursor(0,0);
-    Display.print("Nachricht");
+    Display.print("Message");
     Display.setCursor(0,1);
     Display.print("4");
     delay(2000);
@@ -157,7 +157,7 @@ void breakingNews(int number) {
     Display.clear();
     delay(200);
     Display.setCursor(0,0);
-    Display.print("Nachricht");
+    Display.print("Message");
     Display.setCursor(0,1);
     Display.print("5");
     delay(2000);

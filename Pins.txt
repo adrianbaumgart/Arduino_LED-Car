@@ -1,0 +1,20 @@
+Layout:
+    K		 
+   a b c d e
+
+     f
+     g	       i
+     g	       i
+     h
+   a b c d e
+
+a=9 (LED)
+b=10 (LED)
+c=2 (LED)
+d=4 (LED)
+e=7 (LED)
+f=8 (LED)
+g=12 (LED)
+h=13 (LED)
+i= 3/5/6 (RGB LED) 3(red) / 5(green) / 6(blue)
+K=11 (speaker)
