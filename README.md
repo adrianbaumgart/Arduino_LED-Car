@@ -37,6 +37,8 @@ Used Arduino model: Arduino Uno
      h
 
     a b c d e
+    
+   ![layout](https://github.com/AdriBoy21/Arduino_LED-Car/blob/master/repo_res/layout_image.png?raw=true)
 
 ## License
 
