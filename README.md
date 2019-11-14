@@ -1,6 +1,6 @@
 # Arduino LED Car
 
-This projects represents a car in a race. (No real car, just LED show).
+This projects represents a car in a race. (Not a real car, just LED show).
 
 Used Arduino model: Arduino Uno
 
