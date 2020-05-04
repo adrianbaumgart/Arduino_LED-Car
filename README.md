@@ -1,5 +1,7 @@
 # Arduino LED Car
 
+**This was a school project and we had to build something like that (a wall with lights). Don't take this too seriously :D**
+
 This projects represents a car in a race. (Not a real car, just LED show).
 
 Used Arduino model: Arduino Uno
